@@ -1,4 +1,4 @@
-import Algo4;
+package algo4;
 
 public class Test {
     // in the subfolder can't execute
